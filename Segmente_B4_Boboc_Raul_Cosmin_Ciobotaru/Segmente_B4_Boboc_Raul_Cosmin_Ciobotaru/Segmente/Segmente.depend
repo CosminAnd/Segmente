@@ -1,0 +1,233 @@
+# depslib dependency file v1.0
+1610365070 source:c:\users\2017\desktop\facultate\an 1\sem 1\ip\segmente\algorithms.cpp
+	"Algorithms.h"
+	<iostream>
+
+1610358533 c:\users\2017\desktop\facultate\an 1\sem 1\ip\segmente\algorithms.h
+
+1610369487 source:c:\users\2017\desktop\facultate\an 1\sem 1\ip\segmente\main.cpp
+	<iostream>
+	<graphics.h>
+	<winbgim.h>
+	<math.h>
+	<stdlib.h>
+	<time.h>
+	"Algorithms.h"
+	"GraphicsBibl.h"
+	<Windows.h>
+	<MMSystem.h>
+
+1610358533 c:\users\2017\desktop\facultate\an 1\sem 1\ip\segmente\graphicsbibl.h
+
+1610369470 source:c:\users\2017\desktop\facultate\an 1\sem 1\ip\segmente\graphicsbibl.cpp
+	<graphics.h>
+	<winbgim.h>
+	<iostream>
+	<math.h>
+	"Algorithms.h"
+	"GraphicsBibl.h"
+	<string.h>
+
+1610365072 source:d:\raul\c++\ip\segmente-8\algorithms.cpp
+	"Algorithms.h"
+	<iostream>
+
+1610358534 d:\raul\c++\ip\segmente-8\algorithms.h
+
+1610468569 source:d:\raul\c++\ip\segmente-8\graphicsbibl.cpp
+	<graphics.h>
+	<winbgim.h>
+	<iostream>
+	<math.h>
+	"Algorithms.h"
+	"GraphicsBibl.h"
+	<string.h>
+
+1610462026 d:\raul\c++\ip\segmente-8\graphicsbibl.h
+
+1610469314 source:d:\raul\c++\ip\segmente-8\main.cpp
+	<iostream>
+	<graphics.h>
+	<winbgim.h>
+	<math.h>
+	<stdlib.h>
+	<time.h>
+	"Algorithms.h"
+	"GraphicsBibl.h"
+	<Windows.h>
+	<MMSystem.h>
+
+1610479089 source:d:\raul\c++\ip\segmente-9\algorithms.cpp
+	"Algorithms.h"
+	<iostream>
+
+1610478734 d:\raul\c++\ip\segmente-9\algorithms.h
+
+1610480224 source:d:\raul\c++\ip\segmente-9\graphicsbibl.cpp
+	<graphics.h>
+	<winbgim.h>
+	<iostream>
+	<math.h>
+	"Algorithms.h"
+	"GraphicsBibl.h"
+	<string.h>
+
+1610480407 d:\raul\c++\ip\segmente-9\graphicsbibl.h
+
+1610481671 source:d:\raul\c++\ip\segmente-9\main.cpp
+	<iostream>
+	<graphics.h>
+	<winbgim.h>
+	<math.h>
+	<stdlib.h>
+	<time.h>
+	"Algorithms.h"
+	"GraphicsBibl.h"
+	<Windows.h>
+	<MMSystem.h>
+
+1610479089 source:d:\raul\c++\ip\segmente-10\algorithms.cpp
+	"Algorithms.h"
+	<iostream>
+
+1610478734 d:\raul\c++\ip\segmente-10\algorithms.h
+
+1610483205 source:d:\raul\c++\ip\segmente-10\graphicsbibl.cpp
+	<graphics.h>
+	<winbgim.h>
+	<iostream>
+	<math.h>
+	"Algorithms.h"
+	"GraphicsBibl.h"
+	<string.h>
+
+1610480407 d:\raul\c++\ip\segmente-10\graphicsbibl.h
+
+1610488778 source:d:\raul\c++\ip\segmente-10\main.cpp
+	<iostream>
+	<graphics.h>
+	<winbgim.h>
+	<math.h>
+	<stdlib.h>
+	<time.h>
+	"Algorithms.h"
+	"GraphicsBibl.h"
+	<Windows.h>
+	<MMSystem.h>
+
+1610479088 source:c:\users\2017\desktop\segmente\segmente\algorithms.cpp
+	"Algorithms.h"
+	<iostream>
+
+1610478734 c:\users\2017\desktop\segmente\segmente\algorithms.h
+
+1610483204 source:c:\users\2017\desktop\segmente\segmente\graphicsbibl.cpp
+	<graphics.h>
+	<winbgim.h>
+	<iostream>
+	<math.h>
+	"Algorithms.h"
+	"GraphicsBibl.h"
+	<string.h>
+
+1610480406 c:\users\2017\desktop\segmente\segmente\graphicsbibl.h
+
+1610488778 source:c:\users\2017\desktop\segmente\segmente\main.cpp
+	<iostream>
+	<graphics.h>
+	<winbgim.h>
+	<math.h>
+	<stdlib.h>
+	<time.h>
+	"Algorithms.h"
+	"GraphicsBibl.h"
+	<Windows.h>
+	<MMSystem.h>
+
+1610479088 source:r:\raul\ip\segmente\segmente\algorithms.cpp
+	"Algorithms.h"
+	<iostream>
+
+1610478734 r:\raul\ip\segmente\segmente\algorithms.h
+
+1610483204 source:r:\raul\ip\segmente\segmente\graphicsbibl.cpp
+	<graphics.h>
+	<winbgim.h>
+	<iostream>
+	<math.h>
+	"Algorithms.h"
+	"GraphicsBibl.h"
+	<string.h>
+
+1610480406 r:\raul\ip\segmente\segmente\graphicsbibl.h
+
+1610728794 source:r:\raul\ip\segmente\segmente\main.cpp
+	<iostream>
+	<graphics.h>
+	<winbgim.h>
+	<math.h>
+	<stdlib.h>
+	<time.h>
+	"Algorithms.h"
+	"GraphicsBibl.h"
+	<Windows.h>
+	<MMSystem.h>
+
+1610732927 source:r:\raul\ip\segmente-11\segmente\algorithms.cpp
+	"Algorithms.h"
+	<iostream>
+
+1610732808 r:\raul\ip\segmente-11\segmente\algorithms.h
+
+1610792391 source:r:\raul\ip\segmente-11\segmente\graphicsbibl.cpp
+	<graphics.h>
+	<winbgim.h>
+	<iostream>
+	<math.h>
+	"Algorithms.h"
+	"GraphicsBibl.h"
+	<string.h>
+
+1610735348 r:\raul\ip\segmente-11\segmente\graphicsbibl.h
+
+1610793311 source:r:\raul\ip\segmente-11\segmente\main.cpp
+	<iostream>
+	<graphics.h>
+	<winbgim.h>
+	<math.h>
+	<stdlib.h>
+	<time.h>
+	"Algorithms.h"
+	"GraphicsBibl.h"
+	<Windows.h>
+	<MMSystem.h>
+
+1610732926 source:c:\users\2017\desktop\segmente_b4_boboc_raul_cosmin_ciobotaru\segmente_b4_boboc_raul_cosmin_ciobotaru\segmente\algorithms.cpp
+	"Algorithms.h"
+	<iostream>
+
+1610732808 c:\users\2017\desktop\segmente_b4_boboc_raul_cosmin_ciobotaru\segmente_b4_boboc_raul_cosmin_ciobotaru\segmente\algorithms.h
+
+1610792390 source:c:\users\2017\desktop\segmente_b4_boboc_raul_cosmin_ciobotaru\segmente_b4_boboc_raul_cosmin_ciobotaru\segmente\graphicsbibl.cpp
+	<graphics.h>
+	<winbgim.h>
+	<iostream>
+	<math.h>
+	"Algorithms.h"
+	"GraphicsBibl.h"
+	<string.h>
+
+1610735348 c:\users\2017\desktop\segmente_b4_boboc_raul_cosmin_ciobotaru\segmente_b4_boboc_raul_cosmin_ciobotaru\segmente\graphicsbibl.h
+
+1610793310 source:c:\users\2017\desktop\segmente_b4_boboc_raul_cosmin_ciobotaru\segmente_b4_boboc_raul_cosmin_ciobotaru\segmente\main.cpp
+	<iostream>
+	<graphics.h>
+	<winbgim.h>
+	<math.h>
+	<stdlib.h>
+	<time.h>
+	"Algorithms.h"
+	"GraphicsBibl.h"
+	<Windows.h>
+	<MMSystem.h>
+
